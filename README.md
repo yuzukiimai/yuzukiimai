@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzukiimai&layout=compact&show_icons=true&theme=bear" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuzukiimai&theme=bear&show_icons=ture" />
