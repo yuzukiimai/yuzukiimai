@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=yuzukiimai&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzukiimai&layout=compact&theme=dracula)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzukiimai&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuzukiimai&theme=onedark&show_icons=ture" />
+</p>
 
 <!--
 **yuzukiimai/yuzukiimai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
